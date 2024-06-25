@@ -1,5 +1,5 @@
 .project-before-after {
-	background: #ffe902;
+	background: #926F34;
     padding: 2px;
 	border: 10px solid #090909;
 }
@@ -84,7 +84,7 @@
   -webkit-animation: cd-bounce-in 0.7s;
   -moz-animation: cd-bounce-in 0.7s;
   animation: cd-bounce-in 0.7s; 
-  border-right: 4px solid #ffe902;
+  border-right: 4px solid #926F34;
 }
 
 @-webkit-keyframes cd-bounce-in {
@@ -129,7 +129,7 @@
   top: 50%;
   margin-left: -22px;
   margin-top: -22px;
-  background: #ffe902 url("cd-arrows.png") no-repeat center center;
+  background: #926F34 url("cd-arrows.png") no-repeat center center;
   cursor: move;
   box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.2), 0 0 10px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.3);
   opacity: 0;
