@@ -1,0 +1,80 @@
+@media only screen and (min-width:992px) and (max-width:1199px) {
+
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+}
+@media only screen and (min-width:576px) and (max-width:767px) {
+
+}
+@media only screen and (min-width:480px) and (max-width:575px) {
+
+}
+
+@media only screen and (min-width:320px) and (max-width:479px) {
+.loader-logo {
+    max-width: 220px;
+}	
+.header-top .header-container .logo img {
+	width: 188px;
+	margin-top: -10px;
+}
+.language_selector {
+	margin-right: 34%;
+}
+.dsn-nav-bar.nav-bg .header-top .header-container .logo img {
+    width: 184px;
+}
+.section-margin {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.intro-about .intro-content-text h1 {
+	margin-top: 0;
+}
+.intro-about .intro-content-text h2 {
+    font-size: 24px;
+	margin-bottom: 20px;
+}
+.client-see .inner .left .title {
+	padding-top: 40px;
+}
+.main-social {
+    left: 0;
+    width: 100%;
+    max-width: 94%;
+	margin-left: 3%;
+}
+.nav__list-dropdown ul li a {
+    font-size: 20px!important;
+}
+.footer .footer-links .footer-block .footer-logo img {
+	width: 188px;
+}
+.header-hero.header-hero-2 .contenet-hero {
+    padding: 120px 0 70px 0;
+}
+.form-box {
+    margin-top: 50px;
+}
+.about_page .our-services-2 {
+    margin-bottom: 40px;
+}
+.pagination_wrap {
+    margin-top: -60px;
+    margin-bottom: 70px;
+}
+.projects-gallery {
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+.intro-project h2 {
+	letter-spacing: 2px;
+}
+.projects-gallery .project-video-box {
+    padding: 0!important;
+}
+.vjs_video_3-dimensions {
+    height: 170px;
+}
+}
